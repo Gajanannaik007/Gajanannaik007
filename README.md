@@ -6,7 +6,7 @@
 ---
 
 ### 🌐 Connect with me
-- 📧 Email: gajanannaik007@gmail.com  
+- 📧 Email: naikgajanan238@gmail.com  
 - 🔗 LinkedIn: https://www.linkedin.com/in/gajanan-naik  
 - 🌍 GitHub: https://github.com/Gajanannaik007  
 
