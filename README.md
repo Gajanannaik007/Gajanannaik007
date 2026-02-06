@@ -5,7 +5,7 @@ Showcasing my journey in data analysis and insights.
 
 ### 🌐 Socials
 - 📧 **Email**: naikgajanan238@gmail.com  
-- 🔗 **LinkedIn**:linkedin.com/in/gajanan-naik-4a8a08373 
+- 🔗 **LinkedIn**: linkedin.com/in/gajanan-naik-4a8a08373 
 - 🌍 **GitHub**: https://github.com/Gajanannaik007  
 
 ---
