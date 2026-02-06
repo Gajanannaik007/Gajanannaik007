@@ -1,5 +1,5 @@
 ## Hello there 👋  
-Feel free to explore my work ahead! 🚀
+Showcasing my journey in data analysis and insights.
 
 ---
 
